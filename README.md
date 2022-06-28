@@ -1,1 +1,2 @@
-# JavaScript_Marathon
+## JavaScript Marathon
+JavaScript Marathon assignments repository.
